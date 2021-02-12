@@ -28,7 +28,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
-        name: lorem-ipsum
+        name: name
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
