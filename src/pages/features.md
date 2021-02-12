@@ -30,7 +30,7 @@ sections:
       - input_type: text
         name: name
         label: Name
-        default_value: 'Full '
+        default_value: Full name
         options: []
         is_required: false
         type: form_field
