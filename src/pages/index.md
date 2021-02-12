@@ -23,10 +23,11 @@ sections:
       - title: SLA
         image: images/12_thumb.jpg
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >+
+          We provide this as standard to ensure you get a certain level of
+          service, and know what to expect. Please read and complete the
+          E-signature at the bottom of the page
+
         actions:
           - label: Learn More
             url: /features
