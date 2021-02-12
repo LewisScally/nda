@@ -30,7 +30,7 @@ sections:
 
         actions:
           - label: Read
-            url: /features
+            url: /SLA
             style: secondary
             has_icon: true
             icon: arrow-right
