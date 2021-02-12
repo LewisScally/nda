@@ -22,7 +22,7 @@ sections:
     form_fields:
       - input_type: checkbox
         name: Check
-        label: lorem-ipsum
+        label: Check
         default_value: lorem-ipsum
         options: []
         is_required: false
