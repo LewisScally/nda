@@ -43,7 +43,7 @@ sections:
           E-signature at the bottom of the page
 
         actions:
-          - label: Learn More
+          - label: Read
             url: /features
             style: secondary
             has_icon: true
