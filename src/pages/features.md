@@ -21,7 +21,7 @@ sections:
     hide_labels: false
     form_fields:
       - input_type: checkbox
-        name: lorem-ipsum
+        name: Check
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
