@@ -29,7 +29,7 @@ sections:
         type: form_field
       - input_type: text
         name: name
-        label: Name
+        label: Name of agreeing party
         default_value: Full name
         options: []
         is_required: false
