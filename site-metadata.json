@@ -41,7 +41,6 @@
             },
             {
                 "type": "footer_form",
-                "title": "Subscribe",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
