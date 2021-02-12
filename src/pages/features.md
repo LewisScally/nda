@@ -27,7 +27,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-    submit_label: lorem-ipsum
+    submit_label: Submit & Sign
     type: section_contact
     section_id: Proposa
 seo:
