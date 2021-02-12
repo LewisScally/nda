@@ -15,7 +15,7 @@ sections:
           Please read and complete the E-signature at the bottom of the page
         actions:
           - label: Read
-            url: /features
+            url: /nda
             style: secondary
             has_icon: true
             icon: arrow-right
