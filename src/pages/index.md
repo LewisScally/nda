@@ -38,10 +38,10 @@ sections:
       - title: Proposal
         image: images/11_thumb.jpg
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >+
+          A digital version of your PDF proposal. Please read and complete the
+          E-signature at the bottom of the page
+
         actions:
           - label: Learn More
             url: /features
