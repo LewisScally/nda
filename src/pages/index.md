@@ -5,9 +5,7 @@ sections:
     type: section_features
     background: gray
     title: Please Read and complete
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Click learn more to read and sign
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
