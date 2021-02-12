@@ -8,7 +8,7 @@ sections:
     subtitle: Click learn more to read and sign
     features:
       - title: NDA
-        image: images/feature1.png
+        image: images/1.jpg
         image_alt: App preview on a phone and tablet
         content: >
           We provide this as standard to protect your business information.
