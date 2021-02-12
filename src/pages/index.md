@@ -44,7 +44,7 @@ sections:
 
         actions:
           - label: Read
-            url: /features
+            url: /proposal
             style: secondary
             has_icon: true
             icon: arrow-right
