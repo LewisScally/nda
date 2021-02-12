@@ -41,7 +41,6 @@
             },
             {
                 "type": "footer_form",
-                "form_id": "contactForm",
                 "hide_labels": false,
                 "form_fields": [
                     {
