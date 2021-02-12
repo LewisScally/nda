@@ -7,7 +7,7 @@ sections:
     title: Please Read and complete
     subtitle: Click learn more to read and sign
     features:
-      - title: The Best Feature of Your Services
+      - title: NDA
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
