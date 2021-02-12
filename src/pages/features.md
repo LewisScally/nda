@@ -23,7 +23,7 @@ sections:
       - input_type: checkbox
         name: Check
         label: Check
-        default_value: i hereby agree to the above
+        default_value: i hereby agree to the above document
         options: []
         is_required: false
         type: form_field
