@@ -19,17 +19,11 @@ sections:
         type: action
   - title: lorem-ipsum
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      I agree to the above, and by digitally printing my name, and checking this
+      box, electronically sign this document. Please note, this page records
+      your location and device on submission. As a result your signature is as
+      valid as when written. 
     background: gray
     form_id: lorem-ipsum
     form_action: lorem-ipsum
