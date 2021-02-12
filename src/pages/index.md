@@ -14,7 +14,7 @@ sections:
           We provide this as standard to protect your business information.
           Please read and complete the E-signature at the bottom of the page
         actions:
-          - label: Learn More
+          - label: Read
             url: /features
             style: secondary
             has_icon: true
