@@ -11,9 +11,6 @@ sections:
       - label: Free Trial
         url: /signup
         style: primary
-      - label: View Demo
-        url: '#'
-        style: secondary
 seo:
   title: Features
   description: This is the features page
