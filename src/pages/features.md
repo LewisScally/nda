@@ -37,6 +37,7 @@ sections:
     form_fields: []
     submit_label: lorem-ipsum
     type: section_contact
+    section_id: Proposa
 seo:
   title: Features
   description: This is the features page
